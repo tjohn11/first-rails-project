@@ -1,24 +1,24 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first rails project for developing baseline rails skills to build off of.
 
-Things you may want to cover:
+Project based on this tutorial
 
-* Ruby version
+https://www.youtube.com/watch?v=fmyvWz5TUWg&t=209s
 
-* System dependencies
+All rights/praise/kudos and/or pats on the back go to freeCodeCamp.org and his awesome Youtube
+channel.
 
-* Configuration
+Install instructions
 
-* Database creation
+Note: personally I reccomend using .rbenv as a version manager. If you need help installing ruby, I
+suggest starting here: https://github.com/rbenv/rbenv
 
-* Database initialization
+1. Verify you are running ruby 3 or later (ruby -v)
+2. Verify you are running rails 7 or later (rails -v)
+3. Run `bundle install`
+4. Run `rails s`
+5. Homepage should be available at `localhost:3000`
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
