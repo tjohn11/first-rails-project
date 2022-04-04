@@ -2,8 +2,20 @@
 
     <%= link_to 'Friend App', root_path, class:"navbar-brand" %>
 
-    <ul class="navbar-nav mr-auto">
-      <%= link_to "About Us", home_about_path, class:"nav-link"%>
+    <ul class="d-flex flex-row navbar-nav mr-auto">
+
+      <li class="nav-item mr-2">
+        <%= link_to "About Us", home_about_path, class:"nav-link" %>
+      </li>
+
+      <li class="nav-item mr-2">
+        <%= link_to "Friends", friends_path, class:"nav-link"  %>
+      </li>
+
+      <li class="nav-item mr-2">
+        <%= link_to "New Friend", new_friend_path, class:"nav-link"  %>
+      </li>
+
     </ul>
 
     <form class="form-inline">
