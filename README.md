@@ -6,7 +6,7 @@ Project based on this tutorial
 
 https://www.youtube.com/watch?v=fmyvWz5TUWg&t=209s
 
-All rights/praise/kudos and/or pats on the back go to freeCodeCamp.org and his awesome Youtube
+All rights/praise/kudos and/or pats on the back go to freeCodeCamp.org and their awesome Youtube
 channel.
 
 Install instructions
